@@ -1,0 +1,16 @@
+{"properties": [{
+    "name": "config.base.endpoint.product",
+    "type": "java.lang.String",
+    "description": "A description for 'config.base.endpoint.product'"
+},
+{
+    "name": "config.base.endpoint.customer.personal",
+    "type": "java.lang.String",
+    "description": "A description for 'config.base.endpoint.customer.personal'"
+},
+{
+    "name": "config.base.endpoint.personal.product",
+    "type": "java.lang.String",
+    "description": "A description for 'config.base.endpoint.personal.product'"
+}
+]}
